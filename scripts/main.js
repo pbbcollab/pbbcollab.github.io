@@ -773,7 +773,7 @@ function removeRankedHousemate(housemate) {
     return false; // Housemate not found in the ranking
 }
 
-const currentURL = "https://reeplayph.github.io/pbbcollab/";
+const currentURL = "https://pbbcollab.github.io/";
 // Serializes the ranking into a string and appends that to the current URL
 
 /*function generateShareLink() {
