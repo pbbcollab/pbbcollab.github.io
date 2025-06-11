@@ -213,7 +213,7 @@ window.addEventListener('load', function () {
 
   if (userChoice) {
     // User clicked OK
-    window.location.href = "https://pbbcollab.github.io/big4";
+    window.location.href = "https://pbbcollab.github.io/final_big4_duos";
   } else {
     // User clicked Cancel
     // Do nothing, stay on the current page
